@@ -36,3 +36,227 @@
     transform: rotate(360deg);
   }
 }
+
+.hero {
+  background: url('./images/3DdQlJDQ.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title-text {
+  justify-content: center;
+  align-items: center;
+}
+
+.title-text-lower {
+  justify-content: center;
+  align-items: center;
+}
+
+.header-lower-text {
+  font-size: 64px;
+  font-style: italic;
+}
+
+.tag-holder {
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-button {
+  width: 600px;
+  height: 150px;
+  color: white;
+  font-size: 82px;
+}
+
+.second-screen {
+  background: url('./images/Ej4X_9Yw.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+}
+
+.second-title-row {
+  justify-content: center;
+  text-align: center;
+}
+
+.second-title {
+  color: white;
+  font-size: 128px;
+}
+
+.second-row-holder {
+  padding-top: 100px;
+}
+
+.subtle {
+  font-size: 54px;
+  color: white;
+}
+
+.second-lower-row {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.third-screen {
+  background: url('./images/E6z4BmzA.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+}
+
+.third-title-row {
+  padding-left: 145px;
+  padding-top: 200px;
+}
+
+.third-title {
+  font-size: 128px;
+  color: black
+}
+
+.third-title-under {
+  padding-left: 125px;
+}
+
+.third-lower-text-row {
+  padding-top: 180px;
+  padding-left: 140px;
+  padding-bottom: 90px;
+}
+
+.third-lower-text-tag {
+  font-size: 54px;
+}
+
+.fourth-screen {
+  background: url('./images/V9RBGYyg.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+}
+
+.fourth-top {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 200px;
+  width: 200;
+}
+
+.fourth-title {
+  font-size: 96px;
+  color: black;
+}
+
+.fourth-med {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.one-liner-row {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+.one-liner {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.one-liner-text {
+  font-size: 48px;
+  font-style: italic;
+}
+
+.content-screen {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.content-title {
+  padding-top: 200px;
+  height: 400px;
+  width: '90%';
+}
+
+.product-title {
+  width: '50';
+  padding-right: 500px;
+  font-size: 50px;
+  margin-left: 0px;
+}
+
+.product-price {
+  width: '50%';
+  padding-right: 700px;
+  font-size: 90px;
+  font-style: oblique
+}
+
+.bottom {
+  background: url('https://ucd779ec022e18e14c14bebddaca.previews.dropboxusercontent.com/p/thumb/AA9BntmpClWimvpoBUXhF9eC0STmHuQCstEIkG4YYDlHypa65LCzy5Q0pvrRSU5H57hLaCxUbgb2XA1zd7tFr_eeQetkDK73RaTFs-0BKmOTQ8yKnoRFlOIyLWhn55C2rRrIrXQesJ9NmXOkzRIjM2XK9OYznf9z3vGmmkwyBWjYp9i-e3pCjOGYdDkj-dLERFO4AJRMEqbz0qoaoWUi8gDDa7hQpli5Vs9eYJMVW9ogyQdhGQCKIjdnfJBgiIZETtVQLsF58YfoDcPTfQyve8uHiZE1K4VvAjRDxA_Ffo9i2wixFq6wIJkaojY77rk72DSwlfncxqmnCjoD4uJ9xg7Jw-EzHuIqpO1DiictqcGCwA/p.jpeg?fv_content=true&size_mode=5') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+}
+
+.bottom-title {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+
+.bottom-title-text {
+  font-size: 100px;
+}
+
+.bottom-bottom-text {
+  padding-right: 200px;
+  padding-left: 200px;
+  padding-bottom: 80px;
+}
+
+.last {
+  font-size: 44px;
+}
+
+.last-photo {
+  justify-content: center;
+  align-items: center;
+}
+
+.last-img {
+  height: 400px;
+  width: 600px;
+}
